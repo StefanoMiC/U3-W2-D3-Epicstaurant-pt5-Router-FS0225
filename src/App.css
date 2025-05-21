@@ -1,0 +1,8 @@
+.carousel-item img {
+  cursor: pointer;
+}
+
+.navbar-nav .nav-link.active,
+.navbar-nav .nav-link.show {
+  font-weight: 600;
+}
